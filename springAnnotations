@@ -1,0 +1,10 @@
+@Required
+@Autowired
+@Configuration
+@component
+@ComponentScan
+@Bean
+@RequestMapping
+@Controller 
+@Service
+@Repository
